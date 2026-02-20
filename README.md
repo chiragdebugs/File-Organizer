@@ -1,9 +1,15 @@
-# File Organizer using Python
+# Professional File Organizer (CLI + GUI)
 
-Professional Python tool to organize files automatically into folders like Images, Videos, Documents, etc.
+This is a Python automation tool that organizes files automatically.
 
-## How to run
-python3 organizer.py
+Features:
+- CLI version (organizer.py)
+- GUI version (organizer_gui.py)
+- Organizes Images, Videos, Documents, etc.
+- Easy folder selection
+
+Run GUI version:
+python3 organizer_gui.py
 
 Author: Chirag Tapre
 GitHub: https://github.com/chiragdebugs
